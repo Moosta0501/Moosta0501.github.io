@@ -632,13 +632,13 @@
   color: var(--text-default);
 }
 #app-mount .mentioned-xhSam7 {
-  background: var(--gradient-20) !important;
+  background: var(--gradient-90) !important;
 }
 #app-mount .mentioned-xhSam7:before {
-  background: var(--gradient);
+  background: var(--gradient-90);
 }
 #app-mount .wrapper-3WhCwL {
-  background: var(--gradient-20);
+  background: var(--gradient-90);
   color: var(--text-normal);
 }
 
