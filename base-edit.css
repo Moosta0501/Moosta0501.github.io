@@ -710,7 +710,7 @@
 }
 
 #app-mount .member-3-YXUe.selected-aXhQR6 .layout-2DM8Md {
-  background: var(--gradient);
+  background: var(--gradient-90);
 }
 #app-mount .member-3-YXUe.selected-aXhQR6 .roleColor-rz2vM0 {
   color: var(--text-normal) !important;
@@ -842,7 +842,7 @@
   padding: 6px 5px 7px;
 }
 #app-mount .drawerSizingWrapper-27qFHb .categoryFadeBlurple-1j72_A {
-  background: var(--gradient-20);
+  background: var(--gradient-90);
 }
 #app-mount .drawerSizingWrapper-27qFHb .focused-1En8bG:after,
 #app-mount .drawerSizingWrapper-27qFHb .result-3w1ZcL:hover:after {
