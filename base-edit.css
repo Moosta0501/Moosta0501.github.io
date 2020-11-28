@@ -632,7 +632,7 @@
   color: var(--text-default);
 }
 #app-mount .mentioned-xhSam7 {
-  background: var(--gradient-20) !important;
+  background: var(--gradient) !important;
 }
 #app-mount .mentioned-xhSam7:before {
   background: var(--gradient);
