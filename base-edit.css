@@ -109,7 +109,7 @@
           user-select: none;
 }
 #app-mount .botTagRegular-2HEhHi {
-  background: var(--gradient-20);
+  background: var(--gradient);
   color: var(--text-normal);
   margin-top: 0;
 }
@@ -314,7 +314,7 @@
 }
 #app-mount .bd-pfbtn,
 #app-mount .lookFilled-1Gx00P.colorBrand-3pXr91 {
-  background: var(--gradient);
+  background: var(--gradient-20);
 }
 #app-mount .lookLink-9FtZy-.colorBrand-3pXr91 {
   color: rgb(var(--gradient-primary));
