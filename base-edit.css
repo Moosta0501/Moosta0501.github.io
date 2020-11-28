@@ -582,7 +582,7 @@
   text-shadow: 0 2px 5px rgba(0, 0, 0, var(--text-shadow));
 }
 #app-mount .newMessagesBar-265mhP {
-  background: var(--gradient-90);
+  background: var(--gradient-20);
   opacity: 1;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
@@ -611,7 +611,7 @@
   background: var(--white);
 }
 #app-mount .message-2qnXI6 .reaction-1hd86g.reactionMe-wv5HKu {
-  background: var(--gradient);
+  background: var(--gradient-20);
 }
 #app-mount .message-2qnXI6 .reaction-1hd86g.reactionMe-wv5HKu .reactionCount-2mvXRV {
   color: var(--text-normal);
