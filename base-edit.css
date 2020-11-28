@@ -842,7 +842,7 @@
   padding: 6px 5px 7px;
 }
 #app-mount .drawerSizingWrapper-27qFHb .categoryFadeBlurple-1j72_A {
-  background: var(--gradient-90);
+  background: var(--gradient-20);
 }
 #app-mount .drawerSizingWrapper-27qFHb .focused-1En8bG:after,
 #app-mount .drawerSizingWrapper-27qFHb .result-3w1ZcL:hover:after {
@@ -1172,7 +1172,7 @@
   padding-left: 10px;
 }
 #app-mount .content-98HsJk .categoryItem-3zFJns.selected-aXhQR6 .itemInner-3gVXMG {
-  background: var(--gradient-20);
+  background: var(--gradient);
 }
 #app-mount .content-98HsJk .pageWrapper-1PgVDX {
   background: rgba(0, 0, 0, var(--middle-brightness));
