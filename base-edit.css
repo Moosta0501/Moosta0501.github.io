@@ -582,7 +582,7 @@
   text-shadow: 0 2px 5px rgba(0, 0, 0, var(--text-shadow));
 }
 #app-mount .newMessagesBar-265mhP {
-  background: var(--gradient);
+  background: var(--gradient-90);
   opacity: 1;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
@@ -710,7 +710,7 @@
 }
 
 #app-mount .member-3-YXUe.selected-aXhQR6 .layout-2DM8Md {
-  background: var(--gradient-90);
+  background: var(--gradient);
 }
 #app-mount .member-3-YXUe.selected-aXhQR6 .roleColor-rz2vM0 {
   color: var(--text-normal) !important;
